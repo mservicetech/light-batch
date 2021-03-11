@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"com.mservicetech.light.batch.sample","c":"HelloWorld","l":"HelloWorld()","url":"%3Cinit%3E()"},{"p":"com.mservicetech.light.batch.sample","c":"HelloWorld","l":"main(String[])","url":"main(java.lang.String[])"}]
